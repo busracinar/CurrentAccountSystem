@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CariHesapOtomasyonu", "CariHesapOtomasyonu.csproj", "{43BAF31E-D7D3-4BFD-97E7-18027A899111}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43BAF31E-D7D3-4BFD-97E7-18027A899111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43BAF31E-D7D3-4BFD-97E7-18027A899111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43BAF31E-D7D3-4BFD-97E7-18027A899111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43BAF31E-D7D3-4BFD-97E7-18027A899111}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC0D8010-A93E-44A0-9620-DE8DFC792988}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/150403007
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CariHesapOtomasyonu.csproj
+		SccLocalPath1 = .
+	EndGlobalSection
+EndGlobal
